@@ -1,5 +1,5 @@
 import React from 'react'
-import con from "../../assets/ansh.jpg"
+import con from "../../assets/contact.png"
 import "./Contact.css"
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
@@ -44,7 +44,7 @@ function Contact() {
             <img src={con} alt="" />
         </div>
         <div className="rightcontact">
-            <form action="https://formspree.io/f/xpwzrvpo" method='POST'>
+            <form action="" method='POST'>
                 <input name="Username" type="text" placeholder='Name'/>
                 <input name="Email" type="email" placeholder='Email' />
                 <textarea name="message" id="textarea" placeholder='message me'></textarea>

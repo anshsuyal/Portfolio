@@ -104,10 +104,10 @@ gsap.from(".rightabout",{
     <h1>Personal Info</h1>
     <ul>
       <li>
-<span>NAME</span> : AYUSH SAHU
+<span>NAME</span> : Ansh Sharma 
       </li>
       <li>
-<span>AGE</span> : 21 YEARS
+<span>AGE</span> : 20 YEARS
       </li>
       <li>
 <span>GENDER</span> : MALE
@@ -121,13 +121,13 @@ gsap.from(".rightabout",{
     <h1>Education</h1>
     <ul>
       <li>
-<span>DEGREE</span> : B-TECH
+<span>DEGREE</span> : BCA
       </li>
       <li>
-<span>BRANCH</span> : COMPUTER SCIENCE & ENGINEERING
+<span>BRANCH</span> : COMPUTER APPLICATION & ENGINEERING
       </li>
       <li>
-<span>CGPA</span> : 8.2
+<span>CGPA</span> : 8.0
       </li>
     </ul>
   </div>
@@ -141,7 +141,7 @@ MERN STACK WEB DEVELOPER
 DSA
       </li>
       <li>
-JAVA
+C++
       </li>
     </ul>
   </div>
@@ -149,7 +149,7 @@ JAVA
 </div>
 <div className="rightabout">
 <Card title="MERN STACK WEV DEVELOPER" image={mern}/>
-<Card title="JAVA" image={java}/>
+<Card title="C++" image={java}/>
 <Card title="DSA" image={dsa}/>
 </div>
     </div>

@@ -47,7 +47,7 @@ useGSAP(()=>{
 })
   return (
     <div id="projects">
-        <h1 id="para">2+ YEARS EXPERIENCED IN PROJECTS</h1>
+        <h1 id="para">1+ YEARS EXPERIENCED IN PROJECTS</h1>
         <div className="slider">
 <Card title="VIRTUAL ASSISTANT" image={va}/>
 <Card title="AI POWERED FITNESS WEBSITE" image={fw}/>

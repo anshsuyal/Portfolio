@@ -52,18 +52,18 @@ useGSAP(()=>{
     src={Star}
     alt="Star Icon"
     width={30}
-    onClick={() => window.open('https://www.linkedin.com/in/ansh-sharma-1173bb277', '_blank')}
+    onClick={() => window.open('https://github.com/anshsuyal', '_blank')}
   />
 
   <img src={link} 
   alt="LinkedIn" 
   width={30} 
-  onClick={() => window.open('https://github.com/anshsuyal', '_blank')}
+  onClick={() => window.open('https://www.linkedin.com/in/ansh-sharma-1173bb277', '_blank')}
   />
   
 </div>
 
-    <button> Hire me</button>
+    <button> Download Resume</button>
 </div>
 </div>
 <div className="righthome">
